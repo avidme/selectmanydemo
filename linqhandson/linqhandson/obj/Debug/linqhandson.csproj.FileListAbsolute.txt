@@ -1,0 +1,7 @@
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\obj\Debug\linqhandson.csprojAssemblyReference.cache
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\obj\Debug\linqhandson.csproj.CoreCompileInputs.cache
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\bin\Debug\linqhandson.exe.config
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\bin\Debug\linqhandson.exe
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\bin\Debug\linqhandson.pdb
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\obj\Debug\linqhandson.exe
+D:\Ays\LearnCurve\My stuff\Recess Learning\linqhandson\linqhandson\obj\Debug\linqhandson.pdb
